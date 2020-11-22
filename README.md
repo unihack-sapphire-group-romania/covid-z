@@ -7,7 +7,7 @@ In order to solve this problem we thought about using X-Ray images as doctors fr
 
 Here comes our possible solution namely the development of an automated analysis system based on artificial intelligence that can save medical professionals valuable time.
 
-As the number of cases has grown very rapidly lately, the authorities have been taken by surprise, which has led to the overcrowding of hospitals. To prevent this in the future, our platform also provides future cases predictions in each county based on previous data from datelazi.ro
+As the number of cases has grown very rapidly lately, the authorities have been taken by surprise, which has led to the overcrowding of hospitals. To prevent this in the future, our platform also provides future cases predictions in each county based on previous data from datelazi.ro (not yet deployed on the website)
 
 We choose to develop this app only for Romania because we couldn't find something similar for our country and we believe that it will really help in the current situation.
 
